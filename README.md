@@ -14,7 +14,7 @@ OpenWeatherMap API
 Installation
 To run this application locally, follow these steps:
 
-Clone this repository to your local machine using https://github.com/kerimisanovic02/weather-app.git
+Clone this repository to your local machine using https://github.com/kerimisanovic02/WeatherApp
 Navigate to the project directory in your terminal
 Run npm install to install the dependencies
 Run npm start to start the application
